@@ -17,9 +17,9 @@ extends CanvasLayer
 
 # Use this game API key if you want to test it with a functioning leaderboard
 # "987dbd0b9e5eb3749072acc47a210996eea9feb0"
-var game_API_key = "dev_95b740a89c8e4724831231d7626441d1"
-var domain_key = ["domain-key : t7td55y9"]
-var leaderboard_key = "14610"
+var game_API_key = "GAME DEV API KEY"
+var domain_key = ["domain-key: DOMAIN KEY HERE"]
+var leaderboard_key = "LEADERBOARD KEY HERE"
 var development_mode = true
 var token
 var user_id
